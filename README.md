@@ -1,4 +1,4 @@
-# Obsidian
+# 没有属性的头文件
 
 A simplistic dark theme for Jekyll. Comes with code syntax highlighting.
 
